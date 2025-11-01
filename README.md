@@ -16,7 +16,7 @@ Aplikasi ini memiliki alur pengguna yang dimulai dari halaman login "Simulasi" (
 
 Fitur Utama
 
-Sistem Login: Halaman login untuk simulasi alur pengguna (menggunakan React Router).
+Sistem Login: Halaman login untuk simulasi alur pengguna (menggunakan React Router). Pengguna bebas memasukan username dan password apapun.
 
 Pencarian Resep: Pengguna dapat mencari resep.
 
