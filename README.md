@@ -4,9 +4,9 @@ Sebuah proyek sederhana sebagai proyek Ujian Tengah Semester (UTS) mata kuliah P
 
 👨‍💻 Data Mahasiswa
 
-Nama: [Romualdus Hary Prabowo]
+Nama: Romualdus Hary Prabowo
 
-NIM: [123140083]
+NIM: 123140083
 
 📝 Tentang Aplikasi
 
