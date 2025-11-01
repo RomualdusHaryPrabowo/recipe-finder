@@ -1,4 +1,4 @@
-📖 Aplikasi Pencari Resep (Recipe Finder)
+**📖 Aplikasi Pencari Resep (Recipe Finder)**
 
 Sebuah proyek sederhana sebagai proyek Ujian Tengah Semester (UTS) mata kuliah Pengembangan Aplikasi Web - Institut Teknologi Sumatera (ITERA)
 
@@ -38,12 +38,16 @@ TheMealDB API: Sebagai REST API eksternal untuk mengambil data resep.
 
 Git & GitHub: Untuk manajemen versi dan hosting kode.
 
+Vercel: Untuk deploy 
+
 📸 Tampilan Aplikasi
 
 Berikut adalah beberapa tangkapan layar (screenshot) dari aplikasi:
 [](public/images/login.png)
 [](public/images/tampilan1.png)
 [](public/images/recipeCard.png)
+
+**Link Website** [http://recipe-finder-flame-delta.vercel.app]
 
 🚀 Cara Penggunaan / Instalasi
 
